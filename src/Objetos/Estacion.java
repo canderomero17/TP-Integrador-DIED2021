@@ -1,4 +1,4 @@
-package TP;
+package Objetos;
 
 public class Estacion {
 	

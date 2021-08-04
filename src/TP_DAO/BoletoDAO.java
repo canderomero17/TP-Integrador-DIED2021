@@ -1,6 +1,6 @@
 package TP_DAO;
 
-import TP.Boleto;
+import Objetos.Boleto;
 
 public interface BoletoDAO {
 	

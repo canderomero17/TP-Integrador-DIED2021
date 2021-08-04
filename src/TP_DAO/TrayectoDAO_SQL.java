@@ -7,7 +7,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 import javax.swing.JOptionPane;
-import TP.Trayecto;
+
+import Objetos.Trayecto;
 import TP_Util.ConnectionPostgres;
 
 public class TrayectoDAO_SQL implements TrayectoDAO {

@@ -9,7 +9,8 @@ import java.time.LocalDateTime;
 
 import javax.swing.JOptionPane;
 import javax.swing.JTable;
-import TP.Estacion;
+
+import Objetos.Estacion;
 import TP_Util.ConnectionPostgres;
 
 public class EstacionDAO_SQL implements EstacionesDAO {

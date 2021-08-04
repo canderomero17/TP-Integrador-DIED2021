@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 import javax.swing.JOptionPane;
 
-import TP.Ruta;
+import Objetos.Ruta;
 import TP_Util.ConnectionPostgres;
 
 public class RutasDAO_SQL implements RutasDAO {

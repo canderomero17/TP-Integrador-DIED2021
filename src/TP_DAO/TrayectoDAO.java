@@ -2,7 +2,7 @@ package TP_DAO;
 
 import java.sql.ResultSet;
 
-import TP.Trayecto;
+import Objetos.Trayecto;
 
 public interface TrayectoDAO {
 	

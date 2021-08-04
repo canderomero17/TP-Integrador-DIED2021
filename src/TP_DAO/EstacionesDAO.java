@@ -4,7 +4,7 @@ import java.sql.ResultSet;
 
 import javax.swing.JTable;
 
-import TP.Estacion;
+import Objetos.Estacion;
 
 public interface EstacionesDAO {
 	

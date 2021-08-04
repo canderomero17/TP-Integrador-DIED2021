@@ -4,7 +4,7 @@ import java.sql.ResultSet;
 
 import javax.swing.JTable;
 
-import TP.Linea;
+import Objetos.Linea;
 
 public interface LineasDAO {
 	

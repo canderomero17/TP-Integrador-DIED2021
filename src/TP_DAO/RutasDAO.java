@@ -2,7 +2,7 @@ package TP_DAO;
 
 import java.sql.ResultSet;
 
-import TP.Ruta;
+import Objetos.Ruta;
 
 public interface RutasDAO {
 	

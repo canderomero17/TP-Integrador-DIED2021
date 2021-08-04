@@ -10,7 +10,8 @@ import javax.swing.JComboBox;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
-import TP.Estacion;
+
+import Objetos.Estacion;
 import TP_DAO.EstacionDAO_SQL;
 import TP_DAO.EstacionesDAO;
 

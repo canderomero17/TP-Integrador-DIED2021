@@ -1,6 +1,6 @@
 package EstructuraGRAFO;
 
-import TP.Ruta;
+import Objetos.Ruta;
 
 public class Arista {
 	

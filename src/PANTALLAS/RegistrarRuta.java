@@ -4,10 +4,11 @@ import javax.swing.ButtonGroup;
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JScrollPane;
-import javax.swing.table.DefaultTableModel; 
-import TP.Estacion; 
-import TP.Ruta;
-import TP.Trayecto;
+import javax.swing.table.DefaultTableModel;
+
+import Objetos.Estacion;
+import Objetos.Ruta;
+import Objetos.Trayecto;
 import TP_DAO.EstacionDAO_SQL;
 import TP_DAO.EstacionesDAO;
 import TP_DAO.RutasDAO;

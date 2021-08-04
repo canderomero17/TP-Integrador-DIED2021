@@ -7,8 +7,9 @@ import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JRadioButton;
-import javax.swing.JTextField; 
-import TP.Linea;
+import javax.swing.JTextField;
+
+import Objetos.Linea;
 import TP_DAO.LineasDAO;
 import TP_DAO.LineasDAO_SQL; 
 import java.awt.event.ActionEvent;

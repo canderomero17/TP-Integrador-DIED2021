@@ -7,7 +7,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import javax.swing.JOptionPane;
 import javax.swing.JTable;
-import TP.Linea;
+
+import Objetos.Linea;
 import TP_Util.ConnectionPostgres;
 
 public class LineasDAO_SQL implements LineasDAO {

@@ -1,6 +1,6 @@
 package EstructuraGRAFO;
 
-import TP.Estacion;
+import Objetos.Estacion;
 
 public class Vertice {
 	
