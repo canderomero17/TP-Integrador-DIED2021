@@ -463,6 +463,7 @@ public class VenderBoleto extends JDialog {
 		bg.clearSelection();
 		panel.setVisible(false); 
 		IngresoTextoNombre.setText(""); 
+		ingresoTextoCorreo.setText("");
 		model.setRowCount(0);
 		lblNewLabel_6.setText("");
 		lblNewLabel_5.setVisible(false);
